@@ -1,0 +1,40 @@
+36 - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Currículo Pleno
+
+Núcleo Comum ao Curso:
+
+EB101 Cálculo I 
+EB102 Geometria Analítica e Álgebra Linear 
+SI010 Estrutura de Dados II 
+SI100 Algoritmos e Programação de Computadores I 
+SI102 Seminários I 
+SI200 Algoritmos e Programação de Computadores II 
+SI201 Estrutura de Dados I 
+SI202 Resolução de Problemas I 
+SI300 Programação Orientada a Objetos I 
+SI304 Engenharia de Software II 
+SI305 Análise de Sistemas de Informação I 
+SI400 Programação Orientada a Objetos II 
+SI401 Programação para a Web 
+SI404 Introdução a Interfaces Humano-Computador 
+SI405 Análise de Sistemas de Informação II 
+SI700 Programação para Dispositivos Móveis 
+SI703 Governança e Planejamento Estratégico de TI 
+SI704 Seminários II 
+SI800 Empreendedorismo e Inovação 
+ST008 Metodologia do Trabalho Científico 
+ST096 Ciência, Tecnologia e Sociedade 
+ST266 Engenharia de Software I 
+ST562 Estruturas de Arquivos 
+ST567 Banco de Dados I 
+ST568 Redes de Comunicação I 
+ST765 Computação Gráfica 
+ST767 Banco de Dados II 
+TT060 Gestão de Projetos 
+TT106 Organização e Arquitetura de Computadores 
+TT304 Sistemas Operacionais 
+TT350 Administração de Empresas
+
+12 créditos dentre:
+SI912 Trabalho de Conclusão de Curso I 
+SI913 Trabalho de Conclusão de Curso II 
+SI914 Estágio em Computação I SI915 Estágio em Computação II
